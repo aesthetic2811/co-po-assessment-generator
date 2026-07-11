@@ -5,7 +5,7 @@ syllabus, maps each topic to a Course Outcome (CO), auto-generates a
 difficulty-tagged question bank, and visualizes coverage gaps so you know
 exactly where an assessment is weak before it goes out to students.
 
-**Live demo:** _add your deployed Streamlit link here after deployment_
+**Live demo:** [co-po-assessment-generator-mjcrmfijqe4c85u4jgdyss.streamlit.app](https://co-po-assessment-generator-mjcrmfijqe4c85u4jgdyss.streamlit.app/)
 
 ---
 
